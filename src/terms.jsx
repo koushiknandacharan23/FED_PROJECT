@@ -59,9 +59,7 @@ function Terms() {
                 <p><strong>11. Contact Us</strong><br />
                 For any questions regarding these Terms and Conditions, please contact us at:</p>
 
-                <p>📧 Email: manikanasaikearthi@gmail.com</p>
-                <p>📞 Phone: 9032646737</p>
-                <p>📍 Address: Nizamabad, Telangana</p>
+              
 
                 <p>By using our site, you agree to these terms. Happy Shopping! 🛍️</p>
             </div>
